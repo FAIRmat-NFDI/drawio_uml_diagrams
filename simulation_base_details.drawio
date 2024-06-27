@@ -1,0 +1,153 @@
+<mxfile host="Electron" modified="2024-06-27T12:48:55.606Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="aE3lTcu_HhLps5FYkX-z" version="24.5.3" type="device">
+  <diagram name="Page-1" id="Mv72YUwYb0mtkW0FlEv9">
+    <mxGraphModel dx="1564" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;BaseSection&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Titillium Web;strokeWidth=2;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="380" y="80" width="120" height="40" as="geometry">
+            <mxRectangle x="170" y="110" width="170" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-3" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Titillium Web;" parent="iAEeZ9S-SYxDuShbFOno-1" vertex="1">
+          <mxGeometry y="40" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;endArrow=block;endFill=0;" parent="1" source="iAEeZ9S-SYxDuShbFOno-9" target="iAEeZ9S-SYxDuShbFOno-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Activity&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Titillium Web;strokeWidth=2;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="160" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="170" y="110" width="170" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-10" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Titillium Web;" parent="iAEeZ9S-SYxDuShbFOno-9" vertex="1">
+          <mxGeometry y="40" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;endArrow=block;endFill=0;" parent="1" source="iAEeZ9S-SYxDuShbFOno-11" target="iAEeZ9S-SYxDuShbFOno-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Entity&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Titillium Web;strokeWidth=2;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="640" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="170" y="110" width="170" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-12" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Titillium Web;" parent="iAEeZ9S-SYxDuShbFOno-11" vertex="1">
+          <mxGeometry y="40" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;endArrow=block;endFill=0;" parent="1" source="iAEeZ9S-SYxDuShbFOno-13" target="iAEeZ9S-SYxDuShbFOno-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Experiment&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Titillium Web;strokeWidth=2;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="40" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="170" y="110" width="170" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-14" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Titillium Web;" parent="iAEeZ9S-SYxDuShbFOno-13" vertex="1">
+          <mxGeometry y="40" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;endArrow=block;endFill=0;" parent="1" source="iAEeZ9S-SYxDuShbFOno-15" target="iAEeZ9S-SYxDuShbFOno-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="300" />
+              <mxPoint x="220" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Measurement&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Titillium Web;strokeWidth=2;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="80" y="320" width="130" height="40" as="geometry">
+            <mxRectangle x="170" y="110" width="170" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-16" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Titillium Web;" parent="iAEeZ9S-SYxDuShbFOno-15" vertex="1">
+          <mxGeometry y="40" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;endArrow=block;endFill=0;" parent="1" source="iAEeZ9S-SYxDuShbFOno-17" target="iAEeZ9S-SYxDuShbFOno-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="300" />
+              <mxPoint x="220" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Process&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Titillium Web;strokeWidth=2;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="280" y="320" width="120" height="40" as="geometry">
+            <mxRectangle x="170" y="110" width="170" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-18" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Titillium Web;" parent="iAEeZ9S-SYxDuShbFOno-17" vertex="1">
+          <mxGeometry y="40" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;strokeWidth=2;" parent="1" source="iAEeZ9S-SYxDuShbFOno-19" target="iAEeZ9S-SYxDuShbFOno-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Analysis&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Titillium Web;strokeWidth=2;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="230" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="170" y="110" width="170" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-20" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Titillium Web;" parent="iAEeZ9S-SYxDuShbFOno-19" vertex="1">
+          <mxGeometry y="40" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;strokeWidth=2;" parent="1" source="1YCrOTnC6zrJHs__HTJA-14" target="iAEeZ9S-SYxDuShbFOno-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-31" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;endFill=0;startArrow=block;startFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="480" as="sourcePoint" />
+            <mxPoint x="110" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAEeZ9S-SYxDuShbFOno-32" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Titillium Web&quot;&gt;inheriting from&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="470" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;endFill=0;" edge="1" parent="1" source="1YCrOTnC6zrJHs__HTJA-3" target="1YCrOTnC6zrJHs__HTJA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;endArrow=block;endFill=0;" edge="1" parent="1" source="1YCrOTnC6zrJHs__HTJA-3" target="1YCrOTnC6zrJHs__HTJA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Simulation&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#009999;fontColor=#ffffff;fontFamily=Titillium Web;strokeWidth=2;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="495" y="560" width="120" height="40" as="geometry">
+            <mxRectangle x="440" y="560" width="230" height="182" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Titillium Web&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;+ model_system:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: &amp;quot;Titillium Web&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;b&gt;ModelSystem&lt;/b&gt;&lt;br&gt;+ model_method:&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: &amp;quot;Titillium Web&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;ModelMethod&lt;/b&gt;&lt;br&gt;+ outputs:&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-weight: bold; border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Outputs&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Titillium Web;" vertex="1" parent="1YCrOTnC6zrJHs__HTJA-3">
+          <mxGeometry y="40" width="230" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Titillium Web;" vertex="1" parent="1YCrOTnC6zrJHs__HTJA-3">
+          <mxGeometry y="114" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-6" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- set_system_branch_depth()&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;+ normalize()&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Titillium Web;" vertex="1" parent="1YCrOTnC6zrJHs__HTJA-3">
+          <mxGeometry y="122" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;EntryData&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Titillium Web;strokeWidth=2;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="710" y="480" width="110" height="40" as="geometry">
+            <mxRectangle width="140" height="78" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Titillium Web;" vertex="1" parent="1YCrOTnC6zrJHs__HTJA-7">
+          <mxGeometry y="40" width="140" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;+ normalize()&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Titillium Web;" vertex="1" parent="1YCrOTnC6zrJHs__HTJA-7">
+          <mxGeometry y="44" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-14" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 20px;&quot;&gt;BaseSimulation&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#009999;fontColor=#ffffff;fontFamily=Titillium Web;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="230" height="216" as="geometry">
+            <mxRectangle x="790" y="120" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-15" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: &amp;quot;Titillium Web&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 16px;&quot;&gt;&lt;b style=&quot;font-weight: bold; border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;+ datetime_end: Datetime&lt;/div&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;+ cpu1_start: np.float64, s&lt;/div&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;+ cpu1_end: np.float64, s&lt;/div&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;+ wall_start: np.float64, s&lt;/div&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;+ wall_end: np.float64, s&lt;/div&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;+ program:&amp;nbsp;&lt;b&gt;Program&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Titillium Web;" vertex="1" parent="1YCrOTnC6zrJHs__HTJA-14">
+          <mxGeometry y="40" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Titillium Web;" vertex="1" parent="1YCrOTnC6zrJHs__HTJA-14">
+          <mxGeometry y="170" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1YCrOTnC6zrJHs__HTJA-17" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ normalize()&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Titillium Web;" vertex="1" parent="1YCrOTnC6zrJHs__HTJA-14">
+          <mxGeometry y="178" width="230" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
