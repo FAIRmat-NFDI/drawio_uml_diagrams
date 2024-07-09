@@ -1,0 +1,236 @@
+<mxfile host="Electron" modified="2024-07-09T08:08:49.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.13 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="VdGch9Egh8tUXrDoYJtw" version="24.4.13" type="device">
+  <diagram name="Page-1" id="T7C7msBfa-KsXZYoe_x4">
+    <mxGraphModel dx="4522" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-6" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Titillium Web&quot;&gt;Output&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-1" target="LH_PBbNWKljLeyrUJ7D9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-7" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Titillium Web&quot;&gt;Input&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-1" target="LH_PBbNWKljLeyrUJ7D9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-1" value="&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Do you need to add an &lt;b&gt;input&lt;/b&gt;&amp;nbsp;or an &lt;b&gt;output&lt;/b&gt;?&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="186" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-37" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;Model and settings&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-2" target="LH_PBbNWKljLeyrUJ7D9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Geometrical space&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-2" target="LH_PBbNWKljLeyrUJ7D9-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-2" value="&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Is it related to the &lt;b&gt;geometrical space of your system&lt;/b&gt; or to the &lt;b&gt;mathematical model and settings&lt;/b&gt;?&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="150" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-8" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-3" target="LH_PBbNWKljLeyrUJ7D9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-3" target="LH_PBbNWKljLeyrUJ7D9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-3" value="&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Is the physical property listed under &lt;b&gt;&lt;font color=&quot;#009999&quot;&gt;Outputs&lt;/font&gt;&lt;/b&gt;?&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="150" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-13" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-4" target="LH_PBbNWKljLeyrUJ7D9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-18" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-4" target="LH_PBbNWKljLeyrUJ7D9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-4" value="&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Is the physical property &lt;b&gt;related&lt;/b&gt; with any existing property?&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="350" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Use it, extend it if needed&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="350" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-10" target="LH_PBbNWKljLeyrUJ7D9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="955" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Add a sub-section under the existing property&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="730" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-14" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-11" target="LH_PBbNWKljLeyrUJ7D9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-15" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-11" target="LH_PBbNWKljLeyrUJ7D9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-11" value="&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Is it a &lt;b&gt;sub-part&lt;/b&gt; of the existing property?&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="540" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-12" target="LH_PBbNWKljLeyrUJ7D9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1181" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Inherit and extend&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="730" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-17" target="LH_PBbNWKljLeyrUJ7D9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Create a new class inheriting from &lt;font color=&quot;#009999&quot;&gt;&lt;b&gt;PhysicalProperty&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="540" width="200" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-19" target="LH_PBbNWKljLeyrUJ7D9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-19" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Add it as a sub-section under&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#009999&quot;&gt;Outputs&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="780" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-24" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Titillium Web&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-21" target="LH_PBbNWKljLeyrUJ7D9-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-33" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-21" target="LH_PBbNWKljLeyrUJ7D9-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-21" value="&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Is this model included in the&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#009999&quot;&gt;ModelMethod&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;module?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="505" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-22" target="LH_PBbNWKljLeyrUJ7D9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-22" target="LH_PBbNWKljLeyrUJ7D9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Inherit from&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#009999&quot;&gt;&lt;b&gt;ModelMethod&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;and define your section&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2020px%3B%26quot%3B%26gt%3BUse%20it%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeWidth%3D2%3BspacingLeft%3D1%3BspacingBottom%3D1%3BspacingRight%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22740%22%20y%3D%22350%22%20width%3D%22120%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3EM&amp;lt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="720" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-27" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;Mathematical model&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-26" target="LH_PBbNWKljLeyrUJ7D9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-36" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;Numerical settings&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-26" target="LH_PBbNWKljLeyrUJ7D9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-26" value="&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Is it related to the &lt;b&gt;mathematical model&lt;/b&gt; or with &lt;b&gt;numerical settings&lt;/b&gt;?&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-34" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Titillium Web&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-28" target="LH_PBbNWKljLeyrUJ7D9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-35" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-28" target="LH_PBbNWKljLeyrUJ7D9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-28" value="&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Is this setting included in the&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#009999&quot;&gt;NumericalSettings&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;module?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="505" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-29" target="LH_PBbNWKljLeyrUJ7D9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Inherit from&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#009999&quot;&gt;NumericalSettings&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;and define your section&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2020px%3B%26quot%3B%26gt%3BUse%20it%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeWidth%3D2%3BspacingLeft%3D1%3BspacingBottom%3D1%3BspacingRight%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22740%22%20y%3D%22350%22%20width%3D%22120%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3EM&amp;lt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="730" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-31" target="LH_PBbNWKljLeyrUJ7D9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Use it, extend it if needed&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="720" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-32" target="LH_PBbNWKljLeyrUJ7D9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Use it, extend it if needed&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="730" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-46" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-38" target="LH_PBbNWKljLeyrUJ7D9-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-47" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-38" target="LH_PBbNWKljLeyrUJ7D9-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-38" value="&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Can the schema of&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#009999&quot; face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;ModelSystem&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;be used?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="300" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-48" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-39" target="LH_PBbNWKljLeyrUJ7D9-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-39" target="LH_PBbNWKljLeyrUJ7D9-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-39" value="&lt;font face=&quot;Titillium Web&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Is it related with the simulation &lt;b&gt;&lt;font color=&quot;#009999&quot;&gt;Cell&lt;/font&gt;&lt;/b&gt;, ids for &lt;b&gt;&lt;font color=&quot;#009999&quot;&gt;ChemicalFormula&lt;/font&gt;&lt;/b&gt;, or the &lt;b&gt;&lt;font color=&quot;#009999&quot;&gt;Symmetry&lt;/font&gt;&lt;/b&gt;?&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2020px%3B%26quot%3B%26gt%3BUse%20it%2C%20extend%20it%20if%20needed%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeWidth%3D2%3BspacingLeft%3D1%3BspacingBottom%3D1%3BspacingRight%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-60%22%20y%3D%22730%22%20width%3D%22120%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E,&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="514.5" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Inherit from &lt;b&gt;&lt;font color=&quot;#2a4cdf&quot;&gt;System&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;and extend&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="515" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-42" target="LH_PBbNWKljLeyrUJ7D9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-892" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Use any of these sections, extend them if needed&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="735" width="175" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-43" target="LH_PBbNWKljLeyrUJ7D9-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Create a new class inheriting from&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#2a4cdf&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Entity&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="735" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-45" target="LH_PBbNWKljLeyrUJ7D9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-567" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-45" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Add it as a sub-section under&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#009999&quot;&gt;ModelSystem&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="-652.5" y="940" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LH_PBbNWKljLeyrUJ7D9-53" target="LH_PBbNWKljLeyrUJ7D9-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-53" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 24px;&quot;&gt;Document your new class and methods&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=-1;gradientColor=#009999;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1210" width="196" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="LH_PBbNWKljLeyrUJ7D9-64" value="&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 24px;&quot;&gt;Contact FAIRmat experts to check if your section is &lt;b&gt;Interoperable&lt;/b&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;spacingLeft=1;spacingBottom=1;spacingRight=-1;gradientColor=#009999;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="306" y="1441" width="215" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
